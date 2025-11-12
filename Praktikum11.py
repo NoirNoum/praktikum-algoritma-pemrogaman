@@ -1,3 +1,7 @@
+# Pardede Putra Anjasmara
+# 2505060061
+# Rombel Praktikum 4
+
 import datetime
 import os
 import string
